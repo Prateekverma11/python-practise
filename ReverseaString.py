@@ -6,3 +6,4 @@ def string(s):
 s = (input())
 print(string(s))
 
+
