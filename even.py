@@ -9,3 +9,4 @@ n = int(input())
 power(n)
 
 
+
