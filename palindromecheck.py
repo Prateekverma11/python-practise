@@ -7,3 +7,4 @@ def is_palindrome(s):
 
 n = input()
 print(is_palindrome(n))
+
