@@ -15,5 +15,4 @@ class Solution:
         return ans
 
 nums = list(map(int, input().split()))
-sol = Solution()
-print(sol.subsets(nums))
+print(Solution().subsets(nums))
