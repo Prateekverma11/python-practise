@@ -4,3 +4,4 @@ def sum(n):
     return n+sum(n-1)
 n = int(input())
 print(sum(n))
+
