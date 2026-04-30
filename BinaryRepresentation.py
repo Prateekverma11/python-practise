@@ -6,3 +6,4 @@ def binary(n):
 
 n = int(input())
 binary(n)
+
