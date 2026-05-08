@@ -6,3 +6,4 @@ def power(x,n):
 n = int(input())
 x = int(input())
 print(power(n,x))
+
