@@ -5,3 +5,4 @@ def sum(n):
 n = int(input())
 print(sum(n))
 
+
